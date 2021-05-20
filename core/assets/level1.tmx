@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<map version="1.5" tiledversion="1.6.0" orientation="orthogonal" renderorder="right-down" width="240" height="13" tilewidth="16" tileheight="16" infinite="0" nextlayerid="10" nextobjectid="80">
+<map version="1.5" tiledversion="1.6.0" orientation="orthogonal" renderorder="right-down" width="240" height="13" tilewidth="16" tileheight="16" infinite="0" nextlayerid="10" nextobjectid="81">
  <tileset firstgid="1" source="E:/地图文件/NES - Super Mario Bros - World 1-1.tsx"/>
  <layer id="1" name="background" width="240" height="13">
   <data encoding="csv">
@@ -72,12 +72,12 @@
   <object id="56" x="1159.5" y="119.5" width="14.5" height="14"/>
   <object id="58" x="1188" y="119" width="16" height="15"/>
   <object id="59" x="1116" y="267"/>
-  <object id="61" x="308.5" y="126"/>
   <object id="62" x="362" y="154" width="0.5" height="1.5"/>
   <object id="63" x="330.5" y="120" width="16" height="14"/>
   <object id="64" x="361" y="119" width="15" height="15"/>
   <object id="70" x="1370" y="58.5" width="17" height="14.5"/>
   <object id="71" x="1387.5" y="60.5" width="15.5" height="12"/>
   <object id="72" x="1404" y="58.5" width="10.5" height="14.5"/>
+  <object id="80" x="301" y="119" width="16.25" height="14.25"/>
  </objectgroup>
 </map>
