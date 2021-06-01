@@ -30,5 +30,6 @@ public abstract class InteractiveTileObject {
         shape.setAsBox(bounds.getWidth()/2/MarioBros.PPM,bounds.getHeight()/2/MarioBros.PPM);
         fdef.shape = shape;
         body.createFixture(fdef);
+        System.out.println("hello world");
     }
 }
